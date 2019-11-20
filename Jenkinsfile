@@ -5,7 +5,7 @@ pipeline{
         }
     }
     environment {
-        IMAGE_NAME = 'anchore/anchore-ci-demo'
+        IMAGE_NAME = 'digilinux/anchore:latest'
         IMAGE_TAG = 'jenkins'
     }
     stages {
