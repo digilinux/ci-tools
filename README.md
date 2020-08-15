@@ -1,4 +1,4 @@
-# Anchore CI tools [![CircleCI](https://circleci.com/gh/anchore/ci-tools.svg?style=svg)](https://circleci.com/gh/anchore/ci-tools)
+# Anchore CI tools [![CircleCI](https://circleci.com/gh/anchore/ci-tools.svg?style=svg)](https://circleci.com/gh/anchore/ci-tools) test
 
 An assortment of scripts & tools for integrating Anchore Engine into your CI/CD pipeline.
 
